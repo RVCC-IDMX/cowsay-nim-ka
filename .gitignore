@@ -50,6 +50,9 @@ Temporary Items
 *.icloud
 
 ### Node ###
+# Local NPM config file
+.npmrc
+
 # Logs
 logs
 *.log
